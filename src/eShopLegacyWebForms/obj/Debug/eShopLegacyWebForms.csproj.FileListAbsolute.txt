@@ -154,7 +154,6 @@ D:\web\ESHOP\src\eShopLegacyWebForms\bin\Newtonsoft.Json.pdb
 D:\web\ESHOP\src\eShopLegacyWebForms\bin\Newtonsoft.Json.xml
 D:\web\ESHOP\src\eShopLegacyWebForms\bin\System.Diagnostics.DiagnosticSource.xml
 D:\web\ESHOP\src\eShopLegacyWebForms\bin\System.Web.Optimization.xml
-D:\web\ESHOP\src\eShopLegacyWebForms\obj\Debug\eShopLegacyWebForms.csprojAssemblyReference.cache
 D:\web\ESHOP\src\eShopLegacyWebForms\obj\Debug\eShopLegacyWebForms.csproj.CoreCompileInputs.cache
 D:\web\ESHOP\src\eShopLegacyWebForms\obj\Debug\eShopLegacyWebForms.csproj.CopyComplete
 D:\web\ESHOP\src\eShopLegacyWebForms\obj\Debug\eShopLegacyWebForms.dll
